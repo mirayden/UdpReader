@@ -1,2 +1,2 @@
 # UdpReader
-Example how to read a UDP packages.
+Example how to send and to recieve UDP packages.
